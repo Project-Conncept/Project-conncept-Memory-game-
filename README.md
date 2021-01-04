@@ -14,5 +14,3 @@ One by one user selects the tile to uncover and when two similar shapes are unco
 3 - registration sheet:
   - row number in sheet : 6 
   - idea Number : 7 
- 
-  
